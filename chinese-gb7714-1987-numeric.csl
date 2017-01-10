@@ -190,7 +190,7 @@
       <text macro="referenceDate"/>
       <choose>
         <if type="webpage" match="any">
-          <text macro="access" prefix=". "/>
+          <text macro="access" prefix=" "/>
         </if>
       </choose>
       <text macro="recipient"/>
